@@ -1,0 +1,38 @@
+html {
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: lavender;
+}
+
+/* homepage */
+.list-of-pages {
+  list-style: none;
+  padding: 0;
+}
+
+/* recipe pages */
+img {
+  width: 40%;
+  height: auto;
+}
+
+p,
+li {
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* all pages */
+h1 {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 52px;
+  text-shadow: 2px 2px 4px pink;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
